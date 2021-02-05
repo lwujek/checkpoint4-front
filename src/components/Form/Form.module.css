@@ -1,6 +1,7 @@
 .input {
     width: 18.9rem;
     padding: 20px 0px;
+    margin: 10%;
 }
 
 .passwordRules {
@@ -97,7 +98,16 @@ input::-webkit-input-placeholder {
 }
 
 .button {
-    margin-top: 40px;
+    margin: 5%;
+    width: 250px;
+    height: 75px;
+    background: #1FC6F0;
+    border-radius: 6px;
+    color: #FFFFFF;
+    letter-spacing: -0.015em;
+    font-size: 1.2rem;
+    border: 0;
+    font-weight: normal;
 }
 
 .selectp {

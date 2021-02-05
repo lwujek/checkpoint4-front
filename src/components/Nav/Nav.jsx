@@ -15,11 +15,6 @@ const Nav = () => {
           <span className={style.title}>Jav Challenge</span>
         </Link>
       </div>
-      <div className={style.cart}>
-        <Link className={style.link} to="/inscription">
-          Inscription
-        </Link>
-      </div>
     </header>
   );
 };

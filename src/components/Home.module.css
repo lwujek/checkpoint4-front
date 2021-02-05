@@ -21,6 +21,8 @@
         .section2 {
             width: 0%;
             height: 2000px;
+            display: flex;
+            margin: 6%;
             position: relative;
             background-color: white;
             text-align: center;
@@ -37,7 +39,8 @@
         
         .button {
             position: absolute;
-            left: 20%
+            left: 20%;
+            margin-top: 20px;
         }
         
         .align {
